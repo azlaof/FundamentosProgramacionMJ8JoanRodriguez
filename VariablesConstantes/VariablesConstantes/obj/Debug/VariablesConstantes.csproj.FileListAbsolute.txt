@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\VariablesConstantes\VariablesConstantes\bin\Debug\VariablesConstantes.exe.config
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\VariablesConstantes\VariablesConstantes\bin\Debug\VariablesConstantes.exe
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\VariablesConstantes\VariablesConstantes\bin\Debug\VariablesConstantes.pdb
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\VariablesConstantes\VariablesConstantes\obj\Debug\VariablesConstantes.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\VariablesConstantes\VariablesConstantes\obj\Debug\VariablesConstantes.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\VariablesConstantes\VariablesConstantes\obj\Debug\VariablesConstantes.exe
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\VariablesConstantes\VariablesConstantes\obj\Debug\VariablesConstantes.pdb
