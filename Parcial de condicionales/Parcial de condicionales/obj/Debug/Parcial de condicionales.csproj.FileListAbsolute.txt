@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial de condicionales\Parcial de condicionales\obj\Debug\Parcial de condicionales.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial de condicionales\Parcial de condicionales\obj\Debug\Parcial de condicionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial de condicionales\Parcial de condicionales\bin\Debug\Parcial de condicionales.exe.config
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial de condicionales\Parcial de condicionales\bin\Debug\Parcial de condicionales.exe
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial de condicionales\Parcial de condicionales\bin\Debug\Parcial de condicionales.pdb
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial de condicionales\Parcial de condicionales\obj\Debug\Parcial de condicionales.exe
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial de condicionales\Parcial de condicionales\obj\Debug\Parcial de condicionales.pdb
