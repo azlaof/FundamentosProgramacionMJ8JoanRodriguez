@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial ciclos\bin\Debug\Parcial ciclos.exe.config
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial ciclos\bin\Debug\Parcial ciclos.exe
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial ciclos\bin\Debug\Parcial ciclos.pdb
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial ciclos\obj\Debug\Parcial ciclos.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial ciclos\obj\Debug\Parcial ciclos.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial ciclos\obj\Debug\Parcial ciclos.exe
+C:\Users\B09S104est\Documents\Joan Rodriguez\FundamentosProgramacionMJ8JoanRodriguez\Parcial ciclos\obj\Debug\Parcial ciclos.pdb
