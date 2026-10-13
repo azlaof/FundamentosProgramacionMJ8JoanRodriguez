@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\17.ArreglosBidimensionales\17.ArreglosBidimensionales\bin\Debug\17.ArreglosBidimensionales.exe.config
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\17.ArreglosBidimensionales\17.ArreglosBidimensionales\bin\Debug\17.ArreglosBidimensionales.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\17.ArreglosBidimensionales\17.ArreglosBidimensionales\bin\Debug\17.ArreglosBidimensionales.pdb
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\17.ArreglosBidimensionales\17.ArreglosBidimensionales\obj\Debug\17.ArreglosBidimensionales.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\17.ArreglosBidimensionales\17.ArreglosBidimensionales\obj\Debug\17.ArreglosBidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\17.ArreglosBidimensionales\17.ArreglosBidimensionales\obj\Debug\17.ArreglosBidimensionales.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\17.ArreglosBidimensionales\17.ArreglosBidimensionales\obj\Debug\17.ArreglosBidimensionales.pdb
