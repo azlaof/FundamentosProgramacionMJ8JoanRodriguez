@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\16.TareaVectores\16.TareaVectores\bin\Debug\16.TareaVectores.exe.config
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\16.TareaVectores\16.TareaVectores\bin\Debug\16.TareaVectores.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\16.TareaVectores\16.TareaVectores\bin\Debug\16.TareaVectores.pdb
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\16.TareaVectores\16.TareaVectores\obj\Debug\16.TareaVectores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\16.TareaVectores\16.TareaVectores\obj\Debug\16.TareaVectores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\16.TareaVectores\16.TareaVectores\obj\Debug\16.TareaVectores.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\16.TareaVectores\16.TareaVectores\obj\Debug\16.TareaVectores.pdb
